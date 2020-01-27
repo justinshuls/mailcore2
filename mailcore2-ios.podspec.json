@@ -14,7 +14,8 @@
     "branch": "master"
   },
   "platforms": {
-    "ios": 8.0
+    "ios": 8.0,
+    "tvos": 8.0
   },
   "header_dir": "MailCore",
   "requires_arc": false,
